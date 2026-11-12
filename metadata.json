@@ -1,0 +1,6 @@
+{
+  "name": "Takealot - Defy 30L Microwave Combo Deal",
+  "description": "Defy 30L Microwave + Russell Hobbs 6.5L Air Fryer + Mellerware Glass Kettle official promo deal clone with fast checkout and order database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
